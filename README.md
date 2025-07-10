@@ -10,7 +10,7 @@
   Gmail: <a href='mailto:sebastianlevano07@gmail.com'>sebastianlevano07@gmail.com</a></br>
   </br>
   :office: I’m majoring at <a href='https://www.upc.edu.pe/'>UPC</a></br>
-  :office: Currently working at <a href='https://impulsastudio.pe/'>Impulsa Studio</a> as a web developer intern</br>
+  :office: Currently working at <a href='https://impulsastudio.pe/'>Impulsa Studio</a> as a web developer</br>
 </p>
 
 ## 🌐 Socials:
