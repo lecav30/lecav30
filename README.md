@@ -6,7 +6,7 @@
 <p>
   :email: How to reach me: 
   </br>
-  Outlook: <a href='mailto:lecav30@outlook.com'>lecav30@outlook.com</a></br>
+  Outlook: <a href='mailto:seblev11@outlook.com'>seblev11@outlook.com</a></br>
   Gmail: <a href='mailto:sebastianlevano07@gmail.com'>sebastianlevano07@gmail.com</a></br>
   </br>
   :office: Bachelor of Software Engineering from <a href='https://www.upc.edu.pe/'>UPC</a></br>
