@@ -9,7 +9,7 @@
   Outlook: <a href='mailto:lecav30@outlook.com'>lecav30@outlook.com</a></br>
   Gmail: <a href='mailto:sebastianlevano07@gmail.com'>sebastianlevano07@gmail.com</a></br>
   </br>
-  :office: I’m majoring at <a href='https://www.upc.edu.pe/'>UPC</a></br>
+  :office: Bachelor of Software Engineering from <a href='https://www.upc.edu.pe/'>UPC</a></br>
   :office: Currently working at <a href='https://impulsastudio.pe/'>Impulsa Studio</a> as a web developer</br>
 </p>
 
