@@ -10,6 +10,7 @@
   Gmail: <a href='mailto:sebastianlevano07@gmail.com'>sebastianlevano07@gmail.com</a></br>
   </br>
   :office: Bachelor of Software Engineering from <a href='https://www.upc.edu.pe/'>UPC</a></br>
+  :office: Currently working as Junior Engineer at <a href='https://www.nttdata.com/global/en/'>NTTData</a></br>
   :office: Over two years of experience as a Frontend Developer at <a href='https://impulsastudio.pe/'>Impulsa Studio</a></br>
 </p>
 
