@@ -1,36 +1,57 @@
-# Hi there, I'm Sebastián L 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:06b6d4&height=210&text=Sebastián%20Lévano&reversal=false&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Sofware%20Engineer%20|%20Web%20Mobile%20Development&fontAlignY=35&descSize=17&descAlignY=57" alt="Sebastián Lévano - Software Engineer" />
 
-# 💫 About Me:
-💻 My favorite fronted frameworks are NextJS and React
+  <p>
+    <a href="https://www.linkedin.com/in/sebastianlev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://portfolio-sebastianlevano.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:seblev11@outlook.com"><img src="https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Sebastián" /></a>
+  </p>
+</div>
 
-<p>
-  :email: How to reach me: 
-  </br>
-  Outlook: <a href='mailto:seblev11@outlook.com'>seblev11@outlook.com</a></br>
-  Gmail: <a href='mailto:sebastianlevano07@gmail.com'>sebastianlevano07@gmail.com</a></br>
-  </br>
-  :office: Bachelor of Software Engineering from <a href='https://www.upc.edu.pe/'>UPC</a></br>
-  :office: Currently pursuing a Master’s in Data Science & Artificial Intelligence at <a href='https://utec.edu.pe'>UTEC</a></br>
-  :office: Currently working as Engineer at <a href='https://www.nttdata.com/global/en/'>NTTData</a></br>
-  :office: Over two years of experience as a Frontend Developer at <a href='https://impulsastudio.pe/'>Impulsa Studio</a></br>
-</p>
+## About me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastianlev) [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-sebastianlevano.vercel.app/)
+I’m **Sebastián Lévano**, a Software Engineer based in Lima, Peru. I build reliable, polished web and mobile experiences, with a particular focus on React Native, React, and TypeScript.
 
-# 💻 Tech Stack:
+- Currently a **Engineer at NTT DATA**, contributing to BCP’s mobile banking application and production releases.
+- More than two years of experience delivering responsive products and frontend platforms at **Impulsa Studio**.
+- Bachelor of Software Engineering from **UPC**, ranked in the top third of my class; member of its Academic Excellence and Competitive Programming groups.
+- First author of an **ACM ICCSIT 2025** publication on rapid application development and web-programming learning support.
 
-## Frontend
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+<div align="center">
+  <a href="https://doi.org/10.1145/3783862.3783880"><img src="https://img.shields.io/badge/Read%20my%20publication-ACM%20ICCSIT%202025-0e7490?style=flat-square&logo=acm&logoColor=white" alt="ACM ICCSIT 2025 publication" /></a>
+</div>
 
-### Main Frontend dependencies:
+## What I work with
 
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-## Backend
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+**Frontend & Mobile**<br />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+<br /><br />
 
-## Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**Backend, data & delivery**<br />
+<img src="https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# and .NET" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## A few things I’m proud of
+
+- Modernized Tucambista’s Redux architecture across seven domains and 24+ screens, strengthening maintainability and type safety.
+- Shipped core features and a broad redesign for the 38-page **No Hay Sin Suerte** platform.
+- Support dependable BCP mobile-banking releases by coordinating production deployments and resolving incidents across teams.
+
+<div align="center">
+  <sub>Open to connecting about web and mobile engineering.</sub>
+</div>
