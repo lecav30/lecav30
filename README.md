@@ -10,7 +10,8 @@
   Gmail: <a href='mailto:sebastianlevano07@gmail.com'>sebastianlevano07@gmail.com</a></br>
   </br>
   :office: Bachelor of Software Engineering from <a href='https://www.upc.edu.pe/'>UPC</a></br>
-  :office: Currently working as Junior Engineer at <a href='https://www.nttdata.com/global/en/'>NTTData</a></br>
+  :office: Currently pursuing a Master’s in Data Science & Artificial Intelligence at <a href='https://utec.edu.pe'>UTEC</a></br>
+  :office: Currently working as Engineer at <a href='https://www.nttdata.com/global/en/'>NTTData</a></br>
   :office: Over two years of experience as a Frontend Developer at <a href='https://impulsastudio.pe/'>Impulsa Studio</a></br>
 </p>
 
@@ -31,12 +32,5 @@
 
 ## Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-# 📊 GitHub Stats:
-[![Lecav's GitHub stats](https://github-readme-stats.vercel.app/api?username=lecav30&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lecav30/github-readme-stats#gh-dark-mode-only)
-[![Lecav's GitHub stats](https://github-readme-stats.vercel.app/api?username=lecav30&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lecav30/github-readme-stats#gh-light-mode-only)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lecav30&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
