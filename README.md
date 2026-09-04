@@ -3,7 +3,7 @@
 
   <p>
     <a href="https://www.linkedin.com/in/sebastianlev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://portfolio-sebastianlevano.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.sebastianlevano.com/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:seblev11@outlook.com"><img src="https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Sebastián" /></a>
   </p>
 </div>
